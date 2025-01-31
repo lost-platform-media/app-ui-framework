@@ -1,4 +1,4 @@
-# SOLIT NextJS UI Framework
+# LOST MEDIA NextJS UI Framework
 
 ## Getting Started
 
