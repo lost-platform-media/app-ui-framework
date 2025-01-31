@@ -25,7 +25,7 @@ const AppTopbar = forwardRef<AppTopbarRef>((props, ref) => {
             </button>
             <Link href="/" className="layout-topbar-logo">
                 <img src={`/layout/images/logo-${layoutConfig.colorScheme !== 'light' ? 'dark' : 'white'}.svg`} width="34px" height={'35px'} alt="logo" />
-                <span>SOLIT Connect</span>
+                <span>LOSTMEDIA</span>
             </Link>
             <button ref={topbarmenubuttonRef} type="button" className="p-link layout-topbar-menu-button layout-topbar-button" onClick={showProfileSidebar}>
                 <i className="pi pi-ellipsis-v" />

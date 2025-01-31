@@ -7,7 +7,7 @@ interface SimpleLayoutProps {
 }
 
 export const metadata: Metadata = {
-    title: 'SOLIT UI Framework',
+    title: 'LOSTMEDIA UI Framework',
     description: 'The ultimate collection of design-agnostic, flexible and accessible React UI Components.'
 };
 

@@ -19,7 +19,7 @@ const DEFAULT_LAYOUT_CONFIG: LayoutConfig = {
     menuMode: 'static',
     inputStyle: 'outlined',
     ripple: true,
-    theme: 'solit-light',
+    theme: 'lostmedia-light',
     colorScheme: 'light',
 };
 
